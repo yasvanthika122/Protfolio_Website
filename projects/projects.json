@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Real Estate Management",
+    "desc": "A platform for user sign-up, profile management, and property listing with an intuitive search interface.",
+    "image": "r1",
+    "category": "mern",
+    "links": {
+      "view": "https://mern-estate-w2vw.onrender.com/",
+      "code": "https://github.com/yasvanthika122/Real_Estate_Management.git"
+    }
+  },
+  {
+    "name": "Agro Pesticide Website",
+    "desc": "An e-commerce platform for pesticide sales, featuring product management and customer reviews.",
+    "image": "r2",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/yasvanthika122/Agro_pesiticide_website.git"
+    }
+  },
+  {
+    "name": "Webpage for Q&A with OpenAI",
+    "desc": "A web app that uses OpenAI to answer user queries by processing webpage content.",
+    "image": "dl1",
+    "category": "dl",
+    "links": {
+      "code": "https://github.com/yasvanthika122/Webpage_for_Q-A_with_OpenAI"
+    }
+  },
+  {
+    "name": "Self Explainable Interface for Disease Prediction",
+    "desc": "A web app providing an explainable interface for predicting diseases like diabetes and stroke.",
+    "image": "ml1",
+    "category": "ml",
+    "links": {
+      "code": "https://github.com/yasvanthika122/Self_explainable_interface_for_disease_prediction"
+    }
+  },
+  {
+    "name": "Recipe Finder App",
+    "desc": "A MERN stack app allowing users to search, filter, and save recipes.",
+    "image": "r3",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/yasvanthika122/Recipe_finder_app.git"
+    }
+  },
+  {
+    "name": "Train Ticket Calculator",
+    "desc": "An app to calculate total ticket prices for different train journey classes.",
+    "image": "w1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://train-booking-calculator.onrender.com",
+      "code": "https://github.com/yasvanthika122/Train_Booking_Calculator.git"
+    }
+  },
+  {
+    "name": "Bakery Cart",
+    "desc": "An app for browsing bakery items, adding them to a cart, and viewing total cost.",
+    "image": "w2",
+    "category": "basicweb",
+    "links": {
+      "view": "https://bakery-cart.onrender.com",
+      "code": "https://github.com/yasvanthika122/Bakery_Cart.git"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "A simple personal portfolio website with scroll-down navigation.",
+    "image": "w5",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/yasvanthika122/Protfolio_Website.git"
+    }
+  },
+
+  {
+    "name": "Train Monitoring And Booking Systems",
+    "desc": "Train booking and monitoring website for seamless ticketing and tracking.",
+    "image": "w3",
+    "category": "basicweb",
+    "links": {
+      "view": "https://train-booking-calculator.onrender.com",
+      "code": "https://github.com/yasvanthika122/Train_monitoring_and_booking_systems.git"
+    }
+  }
+]
